@@ -5,6 +5,7 @@ header {
   top: 0;
   width: 100%;
 }
+
 nav {
   background-color: #D5CEF7;
   height: 7%;
@@ -20,5 +21,10 @@ a {
 }
 
 a:nth-of-type(1) {
-  padding-right: 10%;
+  margin-right: 10%;
+}
+
+.hover-nav {
+  border-bottom: solid 3px #9A99B2;
+  line-height: 20px;
 }
