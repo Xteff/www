@@ -1,0 +1,18 @@
+.presentation {
+  background-color: #8375D1;
+  height: 88%;
+  left: 0;
+  position: absolute;
+  top: 7%;
+  width: 100%;
+}
+
+.i-am {
+  color: #FFF;
+  font-family: roboto;
+  font-size: 50px;
+  font-weight: bold;
+  position: relative;
+  text-align: center;
+  top: 10%;
+}
