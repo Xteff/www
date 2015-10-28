@@ -1,0 +1,35 @@
+header {
+  background-color: #D5CEF7;
+  height: 7%;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+nav {
+  height: 7%;
+  position: fixed;
+  width: 100%;
+}
+
+a {
+  color: #6253B8;
+  float: right;
+  margin: 15px 15px;
+  text-decoration: none;
+}
+
+a:nth-of-type(2) {
+  margin-right: 15%;
+}
+
+.home {
+  float: left;
+  margin-left: 200px;
+}
+
+.hover-nav {
+  border-bottom: solid 3px #9A99B2;
+  line-height: 20px;
+}
